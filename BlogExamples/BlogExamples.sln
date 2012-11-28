@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example1.VSExtension", "Exa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example1.SimpleNavigationItem", "Example1.SimpleNavigationItem\Example1.SimpleNavigationItem.csproj", "{58939947-F640-4620-BF70-BEA64B22FEDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example2.ContextSensitiveNavigationItem", "Example2.ContextSensitiveNavigationItem\Example2.ContextSensitiveNavigationItem.csproj", "{6699293A-379D-4178-9DAC-3FC9D92DFA4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example2.VSExtension", "Example2.VSExtension\Example2.VSExtension.csproj", "{74D5F37C-F2AC-4985-93C8-6EDCDF94196B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,14 @@ Global
 		{58939947-F640-4620-BF70-BEA64B22FEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58939947-F640-4620-BF70-BEA64B22FEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58939947-F640-4620-BF70-BEA64B22FEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6699293A-379D-4178-9DAC-3FC9D92DFA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6699293A-379D-4178-9DAC-3FC9D92DFA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6699293A-379D-4178-9DAC-3FC9D92DFA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6699293A-379D-4178-9DAC-3FC9D92DFA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D5F37C-F2AC-4985-93C8-6EDCDF94196B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D5F37C-F2AC-4985-93C8-6EDCDF94196B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D5F37C-F2AC-4985-93C8-6EDCDF94196B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D5F37C-F2AC-4985-93C8-6EDCDF94196B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
