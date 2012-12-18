@@ -86,9 +86,7 @@ namespace Example2.ContextSensitiveNavigationItem
             }
         }
 
-        public void Dispose()
-        {
-        }
+        public void Dispose() { }
 
         public event System.ComponentModel.PropertyChangedEventHandler PropertyChanged;
 
