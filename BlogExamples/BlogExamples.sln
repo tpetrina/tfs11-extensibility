@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example2.ContextSensitiveNa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example2.VSExtension", "Example2.VSExtension\Example2.VSExtension.csproj", "{74D5F37C-F2AC-4985-93C8-6EDCDF94196B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example3.VSExtension", "Example3.VSExtension\Example3.VSExtension.csproj", "{C3E2425E-4F67-4BF0-AF58-77AAF6FA0BA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example3.NewPage", "Example3.NewPage\Example3.NewPage.csproj", "{41167A53-F94A-4AD5-8F69-F28B63C704B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +35,14 @@ Global
 		{74D5F37C-F2AC-4985-93C8-6EDCDF94196B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74D5F37C-F2AC-4985-93C8-6EDCDF94196B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74D5F37C-F2AC-4985-93C8-6EDCDF94196B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3E2425E-4F67-4BF0-AF58-77AAF6FA0BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E2425E-4F67-4BF0-AF58-77AAF6FA0BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E2425E-4F67-4BF0-AF58-77AAF6FA0BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E2425E-4F67-4BF0-AF58-77AAF6FA0BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41167A53-F94A-4AD5-8F69-F28B63C704B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41167A53-F94A-4AD5-8F69-F28B63C704B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41167A53-F94A-4AD5-8F69-F28B63C704B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41167A53-F94A-4AD5-8F69-F28B63C704B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
